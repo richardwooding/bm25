@@ -5,6 +5,8 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/richardwooding/bm25)](https://goreportcard.com/report/github.com/richardwooding/bm25)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+**Website:** [richardwooding.github.io/bm25](https://richardwooding.github.io/bm25/)
+
 Okapi **BM25** keyword-relevance ranking and **reciprocal-rank fusion (RRF)** for Go —
 small, dependency-free, and built for the keyword half of hybrid (keyword + semantic)
 search.
