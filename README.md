@@ -78,6 +78,12 @@ score := scorer.Score(docs[0])
 This low-level path also lets you compute IDF over a **per-query candidate set** (e.g. only
 the documents that passed an upstream filter) rather than the whole corpus.
 
+## Sponsor
+
+If this saves you time, you can [sponsor its maintenance](https://github.com/sponsors/richardwooding).
+Sponsorship pays for the unglamorous half — triage, dependency bumps, release plumbing — and is
+never a condition of getting help here.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
